@@ -9,11 +9,11 @@ export default function FirstPost() {
             <title>First Post</title>
         </Head>
             <h1>First Post</h1>
-                <h2>
+                {/* <h2>
                 <Link href="/">
                     <a className='foo'>Back to home</a>
                 </Link>
-                </h2>
+                </h2> */}
             
         </Layout>
     )
