@@ -38,8 +38,8 @@ export default function Layout({
               priority
               src="/images/personalblog.jpg"
               className={utilStyles.borderCircle}
-              height={180}
-              width={180}
+              height={256}
+              width={256}
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
@@ -52,8 +52,8 @@ export default function Layout({
                   priority
                   src="/images/personalblog.jpg"
                   className={utilStyles.borderCircle}
-                  height={150}
-                  width={150}
+                  height={256}
+                  width={256}
                   alt={name}
                 />
               </a>

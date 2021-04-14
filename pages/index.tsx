@@ -21,7 +21,7 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey! My name is Kirill! I'm junior frontend-developer.It is my first blog in Next Js!</p>
+        <p>Hey! My name is Kirill! I'm junior frontend-developer.It is my first blog in Next Js! <a href='https://twitter.com/Kirill98711794'>My Twitter</a></p>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
